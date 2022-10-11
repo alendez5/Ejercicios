@@ -15,14 +15,12 @@ public class Main {
             par = palabra.charAt(palabra.length()/2-1) + "" + palabra.charAt(palabra.length()/2);
             System.out.println(par);
         }
-<<<<<<< HEAD
-     
-=======
+
         else {
             c = palabra.charAt(palabra.length()/2);
               System.out.println(c);//
         }
->>>>>>> rama2
+
       
     }
 
